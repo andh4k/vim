@@ -26,3 +26,7 @@
 	path = bundle/fugitive.vim
 	url = https://github.com/vim-scripts/fugitive.vim.git
 	ignore = dirty
+[submodule "bundle/AutoClose"]
+	path = bundle/AutoClose
+	url = https://github.com/vim-scripts/AutoClose.git
+	ignore = dirty
